@@ -81,10 +81,9 @@ h1{
     border-top-left-radius: 10px;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
-
 }
 .gradient{
-    background: linear-gradient( rgb(19, 19, 19), white);
+    background: linear-gradient( rgb(19, 19, 19),rgb(230, 226, 213), rgb(255, 255, 255));
     text-align: center;
     padding: 15px 3%;
     border-top-right-radius: 5px;
@@ -292,7 +291,7 @@ h1{
     background-color: rgb(39, 47, 58);
     border: 0;
     outline: 0;
-    box-shadow: -1px 3px 5px 1px rgb(179, 178, 178);
+    box-shadow: -1px 3px 5px 1px rgb(212, 211, 211);
 }
 .btn2{
     border-radius: 25px;
