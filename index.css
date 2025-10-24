@@ -83,7 +83,7 @@ h1{
     border-bottom-right-radius: 5px;
 }
 .gradient{
-    background: linear-gradient( rgb(19, 19, 19),rgb(230, 226, 213), rgb(255, 255, 255));
+    background: linear-gradient( rgb(19, 19, 19),rgb(230, 226, 216), rgb(255, 255, 255));
     text-align: center;
     padding: 15px 3%;
     border-top-right-radius: 5px;
