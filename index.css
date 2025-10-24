@@ -9,6 +9,10 @@ body{
     justify-content: center;
     align-items: center;
     height: 100dvh;
+    font-family: "Poppins", sans-serif;
+}
+button{
+    font-family: "Poppins", sans-serif;
 }
 
 
@@ -282,7 +286,7 @@ h1{
 .btn1{
     border-radius: 25px;
     padding: 7px 14px;
-    font-size: 11px;
+    font-size: 10px;
     color: white;
     background-color: rgb(39, 47, 58);
     border: 0;
@@ -292,7 +296,7 @@ h1{
 .btn2{
     border-radius: 25px;
     padding: 7px 14px;
-    font-size: 11px;
+    font-size: 10px;
     background-color: white;
     border: 0;
     outline: 0;
